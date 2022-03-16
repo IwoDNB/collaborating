@@ -1,3 +1,40 @@
+
+# Collaborating Iwo and Kamalpreet
+
+## Bio:
+
+## Iwo Kaczmarzyk
+DCI Student
+Hi My name is Iwo, I come from Poland. About 3 years ago I moved to Germany. I am interested in changing my profession and that's why I started the Web Development course. ​
+After completing the one-year DCI WebDev course, I would like to start working full-time in the IT industry, gain experience and further deepen my knowledge of Web Development and Programming.
+
+## Iwo Recipe:
+
+## Lasagna Bolognese
+
+ Prepare the Bolognese Meat Sauce
+
+    Make the soffritto:
+
+    Combine pancetta, onion, celery, and carrot in sauté pan with butter and cook over medium heat until onion turns pale gold.
+    Add other ingredients:
+
+    Add the beef, pork, and sausage to the soffritto and increase the heat to high. Cook until browned. Sprinkle with the ground clove, cinnamon, and pepper.
+    Add the tomatoes:
+
+    Stir in the tomatoes and bring to a simmer. Reduce the heat to medium. Cook over medium heat for 15 minutes. If you are using whole canned tomatoes, break them up as you add them to the sauce.
+    Add milk and simmer:
+
+    Add the milk, season with sea salt, then turn down the heat and let simmer for 2 and 1/2 hours. Stir at least every 20 minutes. Whenever the sauce simmers down to the point that it is sticking to the bottom of the pan, just add 1/4 cup of water and scrape up the browned bits from the bottom and continue to cook.
+
+Make the Béchamel Sauce
+
+And so on...
+
+## Definition of repo:
+
+    A software repository, or "repo" for short, is a storage location for software packages. Often a table of contents is also stored, along with metadata. A software repository is typically managed by source control or repository managers.
+
 # collaborating
 
 ## Bio
@@ -58,3 +95,4 @@ Meanwhile, for the sauce, slice the tomatoes in half and put in a large pan in a
 
 ### STEP 4
 Slowly stir in the butter, a couple of pieces at a time, and simmer for 6-8 mins until the chicken is cooked through. Add the chopped ginger, green chillies and cream, then simmer for a min or two longer, taking care that the sauce doesn’t split. Stir in 1 tsp salt, fenugreek leaves, if using, and the garam masala, then check the seasoning, adjust if necessary, then add the sugar. In a separate pan, warm all the ingredients for the spiced butter, if using, until the seeds start to pop (see below). Spoon over the curry, scatter with the coriander, onion, chilli, and a drizzle more cream, if using. Serve with naan, pulao rice and chutney.
+
