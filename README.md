@@ -8,7 +8,7 @@ Experience - Worked as a teacher for 5 years
 Languages - English, Punjabi
 
 
-## Reciepe of a Butter Chicken
+## Recipe of a Butter Chicken
 
 Prep:50 mins
 Cook:1 hr
